@@ -1,0 +1,11 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.mr10 {
+    margin-right: 10px;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
